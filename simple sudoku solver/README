@@ -1,0 +1,3 @@
+This program can solve simple sudoku like I used.
+I write two algotithm for solve first is the algorithm that check a number in row , column and square and second one is cross-haching algorithm.
+be carful if you want insert new sudoku you have inter zero instead of blank square.
